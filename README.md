@@ -10,7 +10,7 @@ The computer picks a random number between 0 and 100. You have 6 attempts to gue
 
 ## How to Run
 1. Download or clone this repository.
-2. Open `Python_04_01_Project_PythonGameDevelopment.ipynb` in Jupyter Notebook or JupyterLab.
+2. Open `Python_04_01_Project_PythonGameDevelopment(4).ipynb` in Jupyter Notebook or JupyterLab.
 3. Run the cells in order (**Run → Run All Cells**).
 4. Type your guesses into the box that appears under the game cell.
 
