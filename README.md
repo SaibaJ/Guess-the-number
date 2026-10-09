@@ -17,7 +17,7 @@ The computer picks a random number between 0 and 100. You have 6 attempts to gue
 ## How to Play
 1. Type a whole number between 0 and 100 and press Enter.
 2. Use the "Too high" or "Too low" hint to narrow down your next guess.
-3. Win by guessing the number within 5 attempts.
+3. Win by guessing the number within 6 attempts.
 4. After each round, choose `y` to play again or `n` to quit.
 
 ## Features
